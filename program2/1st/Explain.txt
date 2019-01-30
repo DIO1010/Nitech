@@ -1,0 +1,39 @@
+プログラミング演習2-1ソースコード説明
+学籍番号：29119020
+氏名：下村理雄
+
+以下，説明
+├── Explain.txt（本文）
+├── Makefile
+├── challenge（今回なし）
+│   ├── Makefile
+│   ├── Room.java
+│   ├── Tatami.java
+│   └── TatamiRoomTester.java
+├── kadai（課題のディレクトリ）
+│   ├── Makefile
+│   ├── Triangle.java（Triangleクラスの定義）
+│   └── TriangleTester.java（Triangleクラスのメインメソッド）
+├── meikai9-1（明解課題９−１のディレクトリ）
+│   ├── Human.java（Humanクラスの定義）
+│   ├── HumanArrayInit.java（Humanクラスのメインメソッド）
+│   └── Makefile
+├── meikai9-2（明解課題９−２のディレクトリ）
+│   ├── Day.java（Dayクラスの定義）
+│   ├── DayTester.java（Dayクラスのメインメソッド）
+│   └── Makefile
+├── meikai9-3（明解課題９−３のディレクトリ）
+│   ├── Account.java（Accountクラスの定義）
+│   ├── AccountTester.java（Accountクラスのメインメソッド）
+│   ├── Day.java（Dayクラスの定義）
+│   └── Makefile
+├── meikai9-4（明解課題９−４のディレクトリ）
+│   ├── Day.java（Dayクラスの定義）
+│   ├── Human.java（Humanクラスの定義）
+│   ├── HumanTester.java（Humanクラスのメインメソッド）
+│   └── Makefile
+└── meikai9-5（明解課題９−５のディレクトリ）
+    ├── Day.java（Dayクラスの定義）
+    ├── Makefile
+    ├── Period.java（Periodクラスの定義）
+    └── PeriodTester.java（Periodクラスのメインメソッド）

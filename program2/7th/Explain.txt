@@ -1,0 +1,29 @@
+プログラミング演習2-7　ソースコード説明
+学籍番号:29119020
+氏名:下村理雄
+
+以下説明
+├── Explain.txt
+├── Makefile
+├── challenge
+│   ├── AddSeqTester.java
+│   └── Makefile
+├── kadai
+│   ├── BattingGameTester.java(Threadを継承したBallクラスの定義とそれを実行するmainメソッドを含んだクラス)
+│   └── Makefile
+├── lesson16-2
+│   ├── Makefile
+│   └── PrintHello.java(Threadを継承したLabelPrinterクラスの定義とそれを実行するmainメソッドを含んだクラス)
+├── lesson16-3
+│   ├── Makefile
+│   └── PrintHello3.java(Threadを継承したLabelPrinterクラスの定義とそれを実行するmainメソッドを含んだクラス)
+├── lesson16-5
+│   ├── CountTen3.java(Threadを継承し、mainメソッドを含んだクラス)
+│   └── Makefile
+├── lesson16-6
+│   ├── Makefile
+│   └── ThreadTest1.java(Threadを継承したCountThreeクラスの定義とThreadを継承したCountFiveクラスの定義とそれを実行するmainメソッドを含んだクラス)
+└── lesson16-7
+    ├── Makefile
+    └── ThreadTest2.java(Runnableインタフェースを実装したCountThreeクラスの定義と同じくRunnableインターフェースを実装したCountFiveクラスの定義とそれを実行するmainメソッド含んだクラス)
+

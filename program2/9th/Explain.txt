@@ -1,0 +1,31 @@
+プログラミング演習2-9　ソースコード説明
+学籍番号:29119020
+氏名:下村理雄
+
+以下，説明
+├── Explain.txt(本文)
+├── Makefile
+├── challenge(今回なし)
+│   ├── Challenge.java
+│   └── Makefile
+├── kadai1
+│   ├── FileCopy.java(mainメソッドを含んだクラス)
+│   ├── Makefile
+│   ├── sample.jpg(コピーするための画像ファイル)
+│   ├── sample_sjis.txt(コピーするための文字コードSJISのテキストファイル)
+│   └── sample_utf8.txt(コピーするための文字コードUTF8のテキストファイル)
+├── kadai2
+│   ├── MakeDir.java(mainメソッド含んだクラス)
+│   └── Makefile
+├── kadai3
+│   ├── FindFilename.java(mainメソッドを含んだクラス)
+│   └── Makefile
+├── kadai4(今回なし)
+│   ├── DirectoryToFile.java
+│   └── Makefile
+├── lesson18-2
+│   ├── FindFile1.java(mainメソッドを含んだクラス)
+│   └── Makefile
+└── lesson18-3
+    ├── Makefile(mainメソッド含んだクラス)
+    └── Prime1.java

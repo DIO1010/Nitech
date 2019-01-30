@@ -1,0 +1,41 @@
+プログラミング演習2-8　ソースコード説明
+学籍番号:29119020
+氏名:下村理雄
+
+以下説明
+├── Explain.txt(本文)
+├── Makefile
+├── challenge(今回なし)
+│   ├── Challenge.java
+│   └── Makefile
+├── kadai1
+│   ├── DictionaryTester.java(Dictionaryのクラス定義とそれを実行するmainメソッドを含むクラス)
+│   ├── Makefile
+│   └── ejdic-hand-utf8.txt(Dictionaryに必要な単語が羅列されているデータ)
+├── meikai15-1
+│   ├── Makefile
+│   └── meikai15_1.java(mainメソッドを含んだクラス)
+├── meikai15-2
+│   ├── Makefile
+│   └── meikai15_2.java(mainメソッドを含んだクラス)
+├── meikai15-3
+│   ├── Makefile
+│   └── meikai15_3.java(mainメソッドを含んだクラス)
+├── meikai15-4
+│   ├── Makefile
+│   └── printDoubleTester.java(mainメソッドを含んだクラス)
+├── meikai15-5
+│   ├── ComputerPlayer.java(JankenPlayerを継承したクラスComputerクラスの定義)
+│   ├── FingerFlashing.java(mainメソッドを含んだクラス)
+│   ├── HumanPlayer.java(JankenPlayerを継承したクラスComputerクラスの定義)
+│   ├── JankenPlayer.java(抽象クラスのJankenPlayerクラスの定義)
+│   └── Makefile
+├── meikai15-6
+│   ├── Makefile
+│   └── meikai15_6.java(mainメソッド含んだクラス)
+├── meikai15-7
+│   ├── Makefile
+│   └── SumOfArgs.java(mainメソッド含んだクラス)
+└── meikai15-8(今回なし)
+    ├── Makefile
+    └── MyCalender.java

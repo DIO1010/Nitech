@@ -1,0 +1,20 @@
+プログラミング演習2−13　ソースコード説明
+学籍番号：29119020
+氏名：下村理雄
+
+
+以下，説明
+├── Explain.txt(本文)
+├── Makefile
+├── challenge(今回なし)
+│   ├── Challenge.java
+│   └── Makefile
+└── kadai123
+    ├── Dijkstra.java(Graphクラスを継承して、ダイクストラアルゴリズムが含まれるクラス)
+    ├── DijkstraTester.javaDijsktraクラスをテストするmainを含むクラス()
+    ├── Graph.java(EdgeクラスとNodeクラスとGraphクラスのクラス定義)
+    ├── GraphTester.java(Graphクラスをテストするmainメソッドを含むクラス)
+    ├── Makefile
+    ├── PQDijkstra.java(Dijsktraクラスを継承したプライオリティーキューを用いたダイクストラアルゴリズムが含まれるクラス)
+    ├── PQDijkstraTester.java(PQDijsktraクラスをテストするmainメソッドを含んだクラス)
+    └── sample.txt(グラフのデータが入ったテキストファイル)

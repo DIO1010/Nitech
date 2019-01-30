@@ -1,0 +1,692 @@
+4499:12: Expected a string.
+
+(/usr/lib/firefox/firefox:2986): Gtk-WARNING **: Theme parsing error: gtk.css:4501:16: not a number
+
+(/usr/lib/firefox/firefox:2986): Gtk-WARNING **: Theme parsing error: gtk.css:4501:16: Expected a string.
+
+(/usr/lib/firefox/firefox:2986): Gtk-WARNING **: Theme parsing error: gtk.css:4549:12: not a number
+
+(/usr/lib/firefox/firefox:2986): Gtk-WARNING **: Theme parsing error: gtk.css:4549:12: Expected a string.
+
+Exception in thread "main" java.util.InputMismatchException
+	at java.util.Scanner.throwFor(Scanner.java:864)
+	at java.util.Scanner.next(Scanner.java:1485)
+	at java.util.Scanner.nextInt(Scanner.java:2117)
+	at java.util.Scanner.nextInt(Scanner.java:2076)
+	at DictionaryTester.main(DictionaryTester.java:92)
+Makefile:12: ターゲット 'test' のレシピで失敗しました
+make: *** [test] エラー 1
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/kadai1$ make test
+java DictionaryTester
+英和[0],和英[1]:1
+日本語:A
+A,a:〈C〉英語アルファベットの第1字 / 〈U〉(音階の)イ音,イ調 / 〈C〉《米》(学校の成績の)A 
+A.A.:=AA / antiaircraft
+A.B.:B.A. 
+A.C.L.U.:American Civil Liberties Union 米国自由人権協会 
+A.E.F.:American Expeditionary Forces(第一次世界大戦中の)米国海外派遣軍 
+A.F.T.:American Federation of Teachers 米国教員連盟 
+A frame:A型フレーム(枠組が三角形・逆V字型の建造物) 
+A.G.:Adjutant General 軍務局長 / Attorney General 検事総長
+A.M.:=M.A. 
+A.P.A.:American Psychiatric Association 米国精神医学会 
+A.R.V.:American Revised Version 米国標準改訳聖書(1901年初版) 
+A.S.V.:American Standard Version米国標準改訳聖書 
+A.V.:Authorized Version 
+A&M:Agricultural and Mechanical 農工[大学] 
+A-line:Aラインの(衣服が上が細く裾の広い) 
+A1,A1:=A-one 
+AA:Automobile Association(英国の)自動車協会 
+AAA:American Automobile Association 米国自動車協会 / antiaircraft artillery 高射砲
+abbey:〈C〉大修道院 / 《集合的に》(一院全体の)僧,尼僧 / 〈C〉(大修道院の一部であった)大寺院;《the A-》ウエストミンスター寺院(Westminster Abbey) 
+Abel:アベル(聖書で,AdamとEveの第2子;兄のカイン(Cain)に殺された) 
+academe:《A-》(古代アテネの)アカデミーの森 / 〈C〉(またacademia)大学[周辺]
+ace, Ace:(カード・ドミノ・さいころの)1,エース,Aの札 / (テニスなど球技で)サービスエース / 《話》(何かに)優れている人,ぴか一,エース;名撃墜手 / ぴか一の
+Achilles:アキレス(Homer作のIliadに出てくるギリシア軍の勇将;右足首以外は不死身であったが,ここに矢を射られ戦死をとげたという.このため,「唯一の弱点」のことを『Achilles' heel』「アキレスのかかと」という.《米》では'(アポストロフィ)をつけない) 
+acronym:かしら文字語(数語の最初の1字を組み合わせた語;通例は普通の名詞のように発音される;『NATO』=North Atlantic Treaty Organization) 
+acropolis:〈C〉(古代ギリシア都市の)城さい / 《the A-》アクロポリス(アテネの昔の城さいでパルテノン(Parthenon)神殿その他の遺跡がある)
+act:『行い』,『行為』 / 《しばしばA-》法令,条令 / 《しばしばA-》(芝居の1つの)『幕』;(演芸などの)出し物の一つ / (見せかけの)お芝居,演技 / 『行動する』,行う / 《様態を表す副詞[句]を伴って》わざとふるまう,見せかける / 〈人・物が〉(…として)動く,役割をはたす《+『as』+『名』》 / 〈薬が〉『作用する』,きく / 舞台に立つ,出演する / 〈…の役〉'を'『演ずる』;〈劇〉'を'上演する / …‘に'ふさわしくふるまう / …‘に'見せかける,‘の'ふりをする
+ACT:American College Testing / Australian Capital Territory
+actinium:アクチニウム(放射性元素;化学記号Ac) 
+ADA:Americans for Democratic Action 米国人民主行動連盟 
+Adam:アダム(聖書によれば,神が天地を創造したとき,最初Adamをつくり,そのろっ骨の1本から最初の女Eveを造ったという) 
+Adams apple:のどぼとけ(エデンの園でAdamが食べた禁断の実リンゴの1切れがAdamののどにつかえたという伝説に由来) 
+administration:〈U〉『行政』,統治 / 〈U〉『管理』,経営 / 〈C〉行政機関(省,庁,局など);《the A-》《米》連邦政府(《英》the Government) / 《総称して》(大学・団体などの)管理者側,当局者,教務部 / 〈U〉(裁き・処罰・法冷・儀式などの)執行,施行 
+admiralty:《the A-》《英》海軍省 / 〈U〉海事法
+Adonis:アドニス(ギリシア神話で,女神アフロディテ(Aphrodite)に愛された美青年) / 〈C〉美青年
+adrenalin[e]:アドレナリン(副腎髄質ホルモン) / 《A-》アドレナリン剤
+advent:《the ~》(際立ったもの・事件・人の)出現,到来《+『of』+『名』》 / 《A-》キリストの降臨;降臨節(クリスマス前のおよそ4週間の期間)
+AEC:Atomic Energy Commission 米国原子力委員会 
+Isaac:イサク(旧約聖書で,Abrahamの子でJacobの父) 
+AFB:Air Force Base 空軍基地 
+Afghan:アフガニスタンの;アフガニスタン人(語)の / アフガニスタン人;〈U〉アフガニスタン語：（アフガニスタン（国・場所）を指して「アフガン」と日本語で述べる例を多々耳にしますが、国は「Afghanistan」で、「アフガン」は誤用です。「アフガン」は、「アフガニスタン人・アフガニスタンの」という意味になります）
+AFLCIO:American Federation of Labor and Congress of Industrial Organizations 米国労働総同盟産別会議 
+Afr.:Afriac;African 
+Africa:『アフリカ』({略}Afr.) 
+age:〈U〉(一般に)『年齢』,寿命;〈C〉(個々の)『年齢』,年 / 〈U〉成年(おとなとしての資格・権利を得る年齢;通例18または21歳) / 〈U〉『老齢』;《集合的に》老人たち / 〈U〉(人生の)『一時期』;〈C〉世代(generation) / 〈U〉〈C〉《しばしばA-》(歴史上の)『時代』 / 〈C〉《話》長い間 / 年をとる,ふける;〈物が〉古くなる / 〈年〉'を'とらせる;〈物〉'を'古びさせる
+agent:『代理人』;周旋人 / 働き(作用)を起こすもの;作用物,薬剤 / (政府機関,特にFBI,CIAなどの)部員,機関員 
+air force:〈U〉〈C〉空軍 / 《A-F-》米国空軍,英国空軍(正式にはthe United States Air Force, the Royal Air Forceという)
+air police:空軍憲兵隊({略}AP) 
+AK:Alaska 
+AL:Alabama 
+Ala.:Alabama 
+Alabama:アラバマ州(米国南東部の州;州都Montgomery;{略}AL,Ala.) 
+Alamo:アラモ(米国Texas州San Antonioにあったフランシスコ派の伝道所;1836年Texas独立戦争の時ここにたてこもった米国人はメキシコ軍の攻撃で全滅した) 
+Alas.:Alaska 
+Alaska:アラスカ州(米国西北端の州;州都はJuneau;{略}AK,Alas.) 
+alcazar:(スペインを征服したムーア人の)城,要塞(ようさい);《A-》アルカザール宮(ムーア人歴代の王の宮殿) 
+Aleut:(またAleutian)〈C〉アリューシャン列島住民 / アリュート語
+Aleutian:アリューシャン列島の / =Aleut 1
+Algeria:アルジェリア(アフリカ北西部の共和国;首都Algiers) 
+Algonquin:アルゴンキン語族の一人 / =Algonquian
+All Fools Day:=April Fools' Day 
+Allhallows:=All Saints' Day 
+alma mater:《時にA-M-》母校[養母の意味のラテン語から] 
+almighty:全能の / 《the A-》全能の神(God)
+aloe:アロエ,ロカイ(南アフリカ原産の薬用・観賞用のユリ科の植物) / 《米》リュウゼツラン(American aloe) / 《複数形で》《単数扱い》沈香(じんこう)(香料) 
+alpha:アルファ(ギリシア語アルファベットの第1字A,α;英語のA,aに相当) / アルファ星(星座の主星)
+alphabetical:アルファベット順の,ABC順の 
+alphabetical directory:ABC順の電話番号薄 
+aluminum:《米》アルミニウム(金属元素の一つ;化学記号は『Al』;《英》alminium) 
+Am.:America / American
+AMA:American Medical Association 米国医師会 
+Amer.:America; American 
+America:『アメリカ合衆国』,米国,アメリカ(《略》『Am.,Amer.』) / 《the Americas》南北アメリカ[イタリアの航海者・探検家Amerigo Vespucciの名前に由来]
+American:『アメリカ合衆国の』,米国の;アメリカ人の / 北アメリカの;北米人の / 南アメリカの;南米人の / 南北アメリカの;南北アメリカ人の / 米国人,アメリカ人 / 北(南)アメリカ人 / =American English 
+americium:アメリシウム(人工放射性元素;化学記号Am) 
+Amerind:アメリカ大陸原住民(American IndianまたはEskimoなど) 
+Amish:アンマン(Ammann)派の / アンマン派の信徒(新教のメノー派系に属し,厳格な教養を持つ)
+amplitude modulation:(電波の)振幅変調[放送],AM放送({略}AM,A.M.) 
+Amtrak:《米》アムトラック(American Trackの略;全国鉄道旅客公社(National Railroad Passenger Corporation)の運行する列車) 
+and:《語・句・節を対等に結んで》…『と』…,…や…,および / 《数詞を結合して》…『足す』…,…に加えて / …『しかも』…,…して,同時に… / 《時間的に》『そして』,それから,すると(and then) / 《当然の帰結として》…『ので』,…だから(and so) / 《おもに話》《命令文などの後で》『そうすれば』,そうしたら / 《追加・強調して》それに,しかも / 《対照的な内容を導いて》ところが,しかし(but) / 《譲歩的に》それなのに,それでいながら / 《A and Bで一体の関係を表して》《単数扱い》 / 《同一語を反復して多数・継続などを表して》 / 《同一の複数名詞を結合して変化・種類などを表して》 / 《話》《「形容詞+and+形容詞」の形で前の形容詞が後に副詞的に働く》 / 《話》《「動詞come, goなど+and+動詞」の形でandとその後の動詞が不定詞の働きをして》 / 《「動詞+and+動詞」の形で後の動詞が現在分詞の意を表して》 / 《話》《文頭において前の質問・意見などに同意を示して》そうとも,そして(Yes!and) / 《話》《文頭に置いて驚き・疑念・非難などを表して》ほんとうに;…なのに 
+Andean:(南米西部の)アンデス山脈(the Andes)の 
+Andersen:アンデルセン(Hans Christian Andedersen;1805‐75;デンマークの童話作家) 
+angelica:アンゼリカ(芳香ある植物;茎が食用で根は薬用) / 《『A-』》米国カリフォルニア産白ぶどう酒
+Angelus:(カトリックで)お告げの祈り(天使Gabrielが聖母マリアにイエスの受胎を告げたことを記念して行う祈り) / =Angelus bell
+Angl.:Anglican / Anglicized
+Anglo-Saxon:〈C〉アングロサクソン人 / 《the ~s》アングロサクソン族(5世紀に北ドイツの地方からイギリスに渡ったアングル族(Angles)とサクソン族(Saxuns)が合同した種族;今日の英国人の祖先) / 〈U〉アングロサクソン語,古英語(アングロサクソン人が用いていた英語で11世紀ごろまでのもの;今は通例Old Englishという) / 〈C〉(現代の)英国国籍の人,英国系の人,英語国人 / アングロサクソン人(語)の / 英国国籍の,英国系の
+Angora:(またAngora cat)〈C〉アンゴラネコ / (またAngora goat)〈C〉アンゴラヤギ / (またAngora rabbit)〈C〉アンゴラウサギ / 〈U〉《しばしばa-》 / =mohair / アンゴラで作った毛糸(生地,織物) / =Ankara 
+angstrom unit:オングストローム(1ミリメートルの1000万分の1で短波長の測定単位;{略}A,《記号》A) 
+anno Domini:西暦紀元(in the year of our Lordの意味;{略}A.D.,AD) 
+Ant.:Antarctica 
+Antarctic:『南極の』,南極地域の / 《the A-》『南極』,南極地域(南極大陸と南極海)
+antemeridiem:(ラテン語)午前({略}A.M.,A.M.) 
+antiballistic missile:対弾道弾ミサイル({略}ABM) 
+AP:antipersonnel / (またA.P.)Associated Press
+Ap.:Apostle / Apothecaries' / April 
+APC:アスピリン(Aspirin)・フェナセチン(Phenacetin)・カフェイン(Caffeine)混合の鎮痛解熱剤 
+APO:Army Post Office 陸軍郵便局 
+Apoc.:Apocalypse / Apocrypha / Apocryphal 
+apocalypse:〈C〉天啓,黙示 / 《the A-》(新約聖書の)ヨハネの黙示録
+apocryphal:典拠の疑わしい;にせの / 《A-》外典の
+apostle:〈C〉《A-》使徒(キリストの12人の弟子の一人);《the Apostles》(キリストの)12使徒 / 〈C〉(ある地域・国におけるキリスト教の)最初の宣教師,有名な宣教師 / 〈C〉(主義・政策などの)首唱者,唱道者 
+apostolic:使徒(Apostle)の,使徒時代の / 教皇(Pope)の
+Apr.:April 
+April:『4月』(《略》『Apr』.) 
+AR:Arkansas 
+Arab:(またArabian)アラブ人 / =Arabian horse / アラブ[人]の 
+Arabian:=Arab{名} / 『アラビアの』,アラビア人の
+Arabian Nights Entertainments:《The~》アラビアンナイト,千[夜]一夜物語(また『The Thousand and One Nights』,『The Arabian Nights』) 
+Arbor Day:《米》植樹祭(日)(Alaskaを除く米国各州で4月後半から5月初めに行う) 
+ARC:American Red Crossアメリカ赤十字 
+Archaeozoic:=Archeozoic 
+archer:〈C〉(弓の)射手,弓術家 / 〈U〉《A-》射手(いて)座
+archipelago:群島 / 群島のある海 / 《the A-》(ギリシアと小アジアの間の)多島海,エーゲ海(the Aegean Sea) 
+archon:アルコン(古代Athensの最高執政官) 
+arctic:『北極の』 / 極寒の(frigid) / 〈U〉《the A-》北極(地方) / 《複数形で》《米》(くるぶしの上までくる)防水靴
+Arctic Zone:北極帯(北極からthe Arctic Circleまでの地帯) 
+Arden:《the Forest of~》アーデンの森(イングランド中部Warwickshireの森林地帯;Shakespeareの喜劇As You Like Itの物語の背景) / 〈C〉桃源郷
+Argentina:アルゼンチン(南米南部の共和国;首都はBuenos Aires;正式名the Argentine Republic) 
+Argentine:アルゼンチンの / 〈C〉アルゼンチン人 / 〈U〉《the~》アルゼンチン(Argentina) 
+argon:アルゴン(気体元素;化学記号は『Ar』) 
+Argonaut:(ギリシア神話の)アルゴ号(the Argo)の乗組員 
+Ariz.:Arizona 
+Arizona:アリゾナ州(米国南西部の州,州都はPhoenix;《略》Ariz,AZ) 
+ark:〈U〉箱舟(Noahが家族や家畜を乗せて大洪水をのがれたという舟) / (また『the Ark of the Covenant』)約櫃(やくひつ)(モーセの十戒を刻んだ石を納めた箱 )
+Ark.:Arkansas 
+Arkansas:アーカンソー州(米国中部の州,州都はLittle Rock;《略》『Ark.,AR』) 
+Arlington:アーリントン(バージニア州北東部の郡の名) / 米国国立基地(Arlington National Cemetery)(無名戦士の基がある)
+armada:〈C〉《集合的に》艦隊,軍用飛行隊 / 《the A-》スペインの無敵艦隊(16世紀の海を制圧していたが1588年英国海軍に破れた)
+army:《ときにA-》『陸軍』 / 《the A-》軍隊;(一国の全)軍隊 / (共通の主義・主張のために組織された)(…の)『団体』,集団《+『of』+『名』》 / (人・動物などの)大群《+『of』+『名』》
+arsenic:ヒ素(化学記号は『As』);《俗に》亜ヒ酸 / ヒ素の,ヒ素を含む
+AS:Anglo-Saxon 
+ascension:上昇 / 《the A-》キリストの昇天
+Asiatic:=Asian 
+assembly:〈C〉(特定の目的をもった)『集会』,『会合』,会議 / 《A-》(米国州議会の)下院 / 〈U〉(機械の)組立て;〈C〉組立て部品 
+assumption:(任務などを)引き受けること《+『of』+『名』》 / (権力・権利などの)専有,横領《+『of』+『名』》 / (態度などの)でしゃばり,おうへい / 仮定,想定;仮説 / 《the A-》聖母マリアの被昇天;聖母被昇天祭(8月15日) 
+astatine:アスタチン(放射性元素の一つ;化学記号は『At』) 
+astrakhan:アストラカン(ロシアのAstrakhan地方産の小ヒツジの毛皮) 
+Atl.:Atlantic 
+atonement:(罪などに対する)償い,あがない《+『for』+『名』》 / 《the A-》(キリストの)贖罪(しょくざい)
+Att.Gen.:Attorney General 
+Attic:アッチカ(Attica)の,アテネ(Athens)の / 古典ふうの,典雅な / アッチカ人,アテネ人;〈U〉アッチカ方言 
+Attica:アッチカ(古代ギリシアの一地方;その中心はAthensであった) 
+attorney general:(州などの)司法長官,法務長官 / 《the A- G-》(米国連邦政府の)司法長官;(英国の)法務長官(《略》『Att.Gen.』,『Atty.Gen.』)
+Atty.Gen.:Attorney General 
+audiovisual:視聴覚の / 視聴覚教材《略》『A/V』
+Aug.:August 
+August:『8月』(《略》『Aug.』) / 《形容詞的に》『August heat wave』{名}〈C〉8月の暑波『August vacation』{名}〈C〉8月の休暇
+Augustan:(ローマの)オーガスタス大帝(Augustus)の,オーガスタス大帝時代の / 文芸全盛期の,古典主義の
+Augustus:オーガスタス(ローマ帝国初代の皇帝;Julius Caesarの後継者;63B.C-A.D.14) 
+AUS:Army of the United States米国陸軍 
+Aussie:《俗》=Australian 
+Australasia:オーストラレーシア州(Australia, New Zealandおよび付近の諸島の総称) 
+Authorized Version:欽定(きんてい)訳聖書(英国王James一世の命によって編集され,1611年に発行された英訳聖書;《略》『A.V.』) 
+Ave.,ave.:Avenue 
+axis:〈C〉軸,軸線;枢軸(すうじく) / 《the A-》枢軸国(第二次大戦当時の日本・ドイツ・イタリアなど)
+AZ:Arizona 
+B.A.:Bachelor of Arts文学士 
+B.B.A.:Bachelor of Business Administration 経営学士 
+B.F.A.:Bachelor of Fine Arts美術学士 
+B.S.A.:Boy scouts of America 
+Bell:ベル(『Alexander Graham』~;米国の科学者,電話を発明した;1847‐1922) 
+C.P.A.:Certified Public Accountant公認会計士 
+C.S.A.:Confederate States of America 南部連合国(1860年に米合衆国から脱退した南部11州が作った国) 
+CAB:Civil Aeronautics Board民間航空委員会 
+Cain:カイン(AdamとEveの長男で弟のAbelを殺した聖書の中の人物) 
+California:『カリフォルニア州』(米国太平洋岸の州;州都Sacramento;《略》『Calif.,Cal.,CA』) 
+Camelot:カメロット(アーサー王(King Arthur)の宮廷があったという伝説上の町) 
+Canberra:キャンベラ(Australiaの首都) 
+CAP:Civil Air Patrol民間航空巡視員 
+certified public accountant:公認会計士(《略》『C.P.A.』)(《英》chartered accountant) 
+Cheshire cat:ェシアキャット 《Lewis Carrollの著作「Alice's Adventures in Wonderland」 に出るにやにや笑う猫》
+CIA:the Central Intelligence Agency of the United States米国中央情報局 
+community antenna television:有線テレビ(《略》『CATV』) 
+confederacy:〈C〉(人・団体・国家などの)連合,連盟,同盟 / 《the C-》=the Confederate States of America
+confederation:〈U〉連合(同盟)すること;〈C〉連合,同盟 / 《the C-》アメリカ植民地同盟(18世紀末Articles of Confederationによって結成された13州の同盟)
+credo:《the Credo》=the Apostles' Creed / 〈C〉=creed 3
+creed:(宗教上の)信条;信経(しんきょう) / 《the Creed》=the Apostles' Creed / (またcredo)(一般に)信念,主義 
+Creek:〈C〉〈U〉クリーク族[の人](Alabama州やGeorgia州に主むアメリカインディアンの一族) / 〈U〉クリーク語
+D.A.:District of Attorney (米国の)地方検事 / Department of Agriculture農務省 / doesn't answer; don't answer 
+Daphne:ダフネ(ギリシア神話でApolloに追われていたところを父が月桂樹に変えて救ったというニンフ) / 《d-》〈C〉月桂樹 / ジンチョウゲ(沈丁花) 
+Delphi:デルフィ,デルポイ(ギリシアの古都;神託で有名なApolloの神殿があった) 
+deoxyribonucleic acid:オキシリボ核酸 (＝thymonucleic acid) 《細胞核染色体の基礎物質で遺伝情報をもつ; 略 DNA》
+deoxyribonucleic acid:デオキシリボ核酸(《略》『DNA』) 
+Diana:ダイアナ(ローマ神話の月の女神で狩猟・処女性の守護神;ギリシア神話のアルテミスArtemisに当たる) 
+Don:ドン川(旧ソ連ヨーロッパ中部の川で,Azov海に注ぐ) 
+Edison:エジソン(『Thomas Alva Edison』;1847‐1931;米国の発明家) 
+Egypt:『エジプト』(エジプトアラブ共和国(the Arab Republic of Egypt);首都はCairo) 
+Einstein:アインシュタイン(『Albert~』;1879‐1955;物理学者;相対性原理を発見) 
+EPA:Environmental Protection Agency(米国)環境保護庁 
+ERA:Equal Rights Amendment《米》合衆国憲法の男女同権修正条項 
+Ethiopia:エチオピア(アフリカ東部の国;首都はAddis Ababa;旧称はAbyssinia) 
+Eve:イブ,エバ(神が創造した人類最初の女性;Adamの妻) 
+FAA:Federal Aviation Agency 米国連邦航空局 
+FAdm:Fleet Admiral海軍元帥 
+FAO:Food and Agriculture Organization(国連の)食糧農業機構 
+fate:〈U〉『運命』,宿命 / 〈U〉(運命として定められた)最期,破滅,(特に)死 / 《the Fates》(ギリシア・ローマ神話の)運命の三女神(Clotho,Lachesis,Atropes) / …‘を'運命づける
+FDA:Food and Drug Administration(米国)食品医薬品局 
+feldspar:長石(Al・Na・K・Caなどを含む鉱物) 
+FHA:Federal Housing Administration(米国)連邦住宅庁 
+flamenco:フラメンコ(スペインのAndalusia地方のジプシーの踊り) / フラメンコの曲(歌)
+football:〈U〉《米》『フットボール』(《英》 American football) / 《英》=soccer / 〈C〉フットボール用ボール 
+future shock:進歩する社会について行けないこと[米国の作家A.Tofflerの新造語] 
+G.A.:General Assembly 国連総会 / general average(海上保険の)共同海損
+GA:General Admiral / (またGa)Georgia
+GATT:General Agreement on Tariffs and Tradeガット(関税ならびに貿易に関する一般協定;1947年Genevaで調印1948年発効) 
+General Assembly:国連総会 / (米国の)州議会({略}G.A.)
+Georgia:ジョージア州(米国南東部の州;州都はAtlanta;{略}Ga.,GA) 
+German shepherd:ドイツシェパード犬(警察犬に使う)(《英》Alsatian) 
+Gettysburg address:1863年南北戦争の戦死者をGettysburgの国立墓地に葬ったときのAbraham Lincolnの演説 
+Ghana:ガーナ(西部アフリカの共和国;首都はAccra) 
+Gordian knot:フリュギア(Phrygia)王ゴルディオス(Gordius)の結び目(これを解く者は将来のアジアの支配者とみなされていたのをAlexander大王が剣で断ち切った) / 〈C〉難問題
+Grand Canyon:グランドキャニオン(米国Arizona州のColorado川に沿う大峡谷で国立公園) 
+Grand National:大障害物競馬(Aintreeで毎年3月開催) 
+Greece:『ギリシア』(首都はAthens) 
+GSA:Girl Scouts of America / General Services Administration総合調達局
+Gulf States:メキシコ湾に面している州(Alabama,Florida,Louisiana,Mississippi,Texas) 
+Hail Mary:=Ave Maria 
+Halloween:万聖節(All Saints' Day)の宵祭り(10月31日の夜;カトリック教徒は親類縁者の墓参りをし,米国では,夜,子供たちがjack-o'=lantern(カボチャをくり抜いたちょうちん)を玄関先に飾り,おばけや鬼などに仮装して知人の家を訪ね,お菓子をねだったりして騒ぎ回る習慣がある) 
+Helicon:ヘリコン(ギリシア神話でギリシアの中南部の山;ApolloとMusesの住所と考) / 〈C〉《h-》ヘリコン)肩に掛けて吹く大型の菅楽器)
+Hitler:ヒトラー(『Adolf Hitler』;1889‐1945;ドイツ国家社会党(the Nazis)の党首) 
+Holy Thursday:聖木曜日(Easter前の木曜日) / (キリストの)昇天の祝日(Ascension Day)
+Houston:ヒューストン(米国Texas州東南部の都市:NASAの宇宙船飛行管制センターがある) 
+ice age:〈C〉《the~》(地質の)氷河時代 / 《the I-A-》(洪積世の)氷河期
+Indian:インドの,インド人の / アメリカインディアンの / 〈C〉インド人 / (また『American Indian』)〈C〉『アメリカンインディアン』 / 〈U〉アメリカインディアンの言語 
+infrastructure:(組織の機能を助ける)下部構造,下部組織 / (NATOなどの)永久[軍事]基地
+interjection:〈U〉(言葉などを)不意に差しはさむこと / 〈C〉不意の叫び,感嘆の言葉,不意の質問 / 〈C〉『間投詞』,感嘆詞(Oh!Ah!など) 
+Invincible Armada:=Spanish Armada 
+Iowa:アイオワ州(米国中西部の州;州都はDes Moines;{略}『IA』,『Ia』.) 
+IPA:International Phonetic Alphabet 国際音標文字 
+IRA,I.R.A.:Irish Republican Army アイルランド共和国軍 
+Iron Age:《the~》 / 鉄器時代(Stone Age, Bronze Ageに続く時代) / 《i- a-》(ギリシア神話で)黒鉄時代 
+ITA:Independent Television Authority(英国)独立テレビジョン公社 
+J.A.:Judge Advocate(米海軍)法務官 
+Jeanne d'Arc:=Joan of Arc, ジャンヌダルク（1412-1431） 
+Jordan:《the ~》ヨルダン川(パレスチナにあって質海に注ぐ川) / ヨルダン王国(旧名はTrans-Jordan;首都はAmman)
+Keller:ケラー(『Helen Adams~』;1880‐1968;目・耳・口の三重苦を克服した米国の女性著述家) 
+King James Version:=Authorized Version 
+L.A.:Los Angeles 
+Lent:四旬節(キリスト教で,Ash Wednesdayに始まり,日曜を除いてEasterまで続く40日間;この期間に断食と悔い改めを行う) 
+Lincoln:リンカン(『Abraham~』;1809‐1865;米国の第16代大統領1861‐65) / Nebraska州の州都
+Lindbergh:リンドバーグ(『Charles A.~』;1902‐74;1927年大西洋の単独無着陸飛行に初成功した米国の飛行家) 
+Little Rock:リトルロック(米国Arkansas州の州都) 
+Los Angeles:『ロサンゼルス』(米国California州南部の都市;《略》『L.A.』) 
+Louisiana:ルイジアな州(米国南部の州で,州都はBaton Rouge;《略》『La.,LA』) 
+M.A.:Master of Arts 
+M.B.A.:Master of Business Administration経営学修士 
+M.F.A.:Master of Fine Arts 美術修士 
+Mac:おい,君,名前の分からない相手（男）に対して呼びかけるときに使う, Apple社のMacintoshコンピューター 
+Maine:メーン州(米国北東部大西洋岸の州で,州都はAugusta,《略》『Me.,ME』) 
+major league:(野球の)大リーグ(American LeagueとNational Leagueのいづれか) / (各種スポーツの)大リーグ
+Malaysia:マレーシア(首都はKuala Lumpur) / マライ群島(the Malay Archipelago)
+mambo:マンボ / American-Cuba 系のリズムを持つ舞曲 / この曲に合わせて踊るダンス / マンボを踊る
+Mars:マルス(ローマ神話の戦争の神;ギリシア神話のAresにあたる) / 火星
+Maryland:メリーランド州(米国東部の州;州都はAnnapolis;《略》『Md.,MD』) 
+Massachusetts:マサチューセッツ州(米国北東部の州;州都はBoston;《略》『Mass.,MA』) 
+Master of Arts:文学修士号(《略》『M.A.』また『A.M.』) 
+Mecca:メッカ(Saudi Arabiaの商業都市;Muhammadの誕生地でイスラム教の霊地) / 〈C〉《しばしばm-》行ってみたい(あこがれの)所;(…の)発祥地《+『of』(『for』)+『名』》
+Medieval Latin:中世ラテン語(A.D.700‐1500ごろに,特に文学で用いられたラテン語) 
+Medina:メジナ(Saudi Arabia西部の都市;Muhammadの墓があり,Meccaとともにイスラム教徒の聖地とされる) 
+MIA: M.I.A./missing in action 戦闘中行方不明兵士/戦闘中行方不明
+Mongolian:モンゴルの / モンゴル人の / モンゴル語の / 〈C〉モンゴル人 / 〈U〉モンゴル語/・モンゴル人（の）; モンゴル語 （Mongolian）; 〔軽蔑〕 （m-） ダウン症患者：（英語では「モンゴル」は「国・場所」の「蒙古」を指しません。「国、場所」には「Mongolia」を使います。同様に、アフガニスタン（国・場所）を指して「アフガン」と日本語で述べる例を多々耳にしますが、国は「Afghanistan」で、「アフガン」は誤用です。「アフガン」は、「アフガニスタン人・アフガニスタンの」という意味になります） 
+Montgomery:モントゴメリー(米国Alabama州の州都) 
+Mozart:モーツアルト(『Wolfgang Amadeus』~;1756‐91;オーストリアの作曲家) 
+MRA:Moral Re-Armament道徳再武装 
+N.A.:North America・not applicable（不適格)・not available（該当なし） 
+NAACP:National Association for the Advancement of Colored People全米有色人種地位向上協会 
+NAS:National Academy of Sciences(米国)連邦学術会議 
+NASA:The National Aeronautics and Space Administration 米国航空宇宙局 
+NATO:North Atlantic Treaty Organization 
+Navaho:〈C〉ナバホ族(人)(北米New Mexico, Arizonaに住むインディアン = Navajo) / 〈U〉ナバホ語
+NEA:National Education Association(米国)連邦教育委員会 
+Netherlands:『オランダ』(Hollandの公式名;首都はAmsterdam,政府所在地はThe Hague) 
+New York:『ニューヨーク州』(米国北部東海岸の州;州都はAlbany;《略》『N.Y.,NY』) / (また『New York City』)『ニューヨーク市』(米国New York州南東端ハドソン河口の港市;《略》『N.Y.C』)
+NORAD:North American Air Defense Command北米大陸防空総軍司令部 
+NRA:National Recovery Administration 米国産業復興局 
+NSA:National Security Agency(米国の)国家安全保障局 
+OAP:Old Age Pensioner 老齢年金受給者 
+OAS:Organization of American States 米州機構 
+OAU:Organization of African Unity アフリカ統一機構 
+OCAS:Organization of Central American States 米中央州機構 
+open sesame:開けごまの呪文(ジュモン);(困難な問題などの)有効な解決手段 / 開けごま[“The Arabian Nights"から]
+original sin:原罪(AdamとEveの堕落以来人間が持っている罪) 
+Orleans:オルレアン(フランス北中部の小都市;昔ジャンヌダルク(Joan of Arc)が英軍の包囲から救った) 
+Pallas:パラス(ギリシア神話でAthensの守り神;女神Athenaの別名) 
+Paraguay:パラグアイ(南米中部の共和国;首都Asuncion) / 《the~》パラグアイ川
+parent-Teacher Association:父母と教師の会(《略》『P.T.A.』) 
+Parent-Teacher Association:父母と教師の会(《略》『P.T.A.』) 
+Parnassus:パルナッソス山(『Mount』(『Mt』.)~;ギリシア南部にある山;Apolloや芸術の女神Musesの霊山) 
+Parthenon:パルテノン神殿(ギリシアの女神Athenaを祭った殿堂;ドリス式建築の典型) 
+Pathan:アフガニスタン人(Afghan) / アフガニスタン人の 正確にはパサン族（パキスタン西北部とアフガニスタンとの国境地帯に住む部族）
+PEN:International Association of Poets,Playwrights,Editors,Essayists,and Novelists国際ペンクラブ(1922年創設) 
+Pennsylvania:ペンシルバニア州(米国東部の州で,州都はHarrisburg…《略》『Pa.,PA,Penn.,Penna.』) 
+pentagon:五角形,五辺形 / 《the P-》ペンタゴン(Arlingtonにある米国国防総省の五角形の巨大な建物)
+Persian Gulf:《the~》ペルシア湾(アラビアとイランの間の海)(Arabian Gulf) 
+Poe:ポー(『Edgar Allan ~』;1809‐49;米国の詩絹・短編小説家・批評家) 
+Pope:ポープ(Alexander~;1688‐1744;英国の詩人) 
+PTA,P.T.A.:Parent-Teacher Association父母と教師の会,ピーティーエー 
+R.A.:Royal Academy英国王立美術院 
+R.A.A.F.:Royal Australian Air Forceオーストラリア空軍 
+R.A.F.,RAF:Royal Air force 英国空軍 
+RA:Regular Army正規軍 
+RAC:Royal Automobile Club《英》《the ~》英国自動車クラブ 
+RAdm:Rear Admiral 海軍少将 
+RCAF:Royal Canadian Air Force カナダ空軍 
+realtor:《米》=real estate agent ・〈U〉《R-》全米不動産業協会(the National Association of Realtors)所属の不動産業者 
+Red Indian:アメリカインディアン(=American Indian) 
+red man:北米インディアン(North American Indian) 
+Revised Version:改訂訳聖書(1870年から1884年にかけて行われた欽定(きんてい)訳聖書(Authorized Version)の改訂訳) 
+Revolutionary War:=American Revolution 
+ribonucleic acid:リボ核酸(《略》『RNA』) 
+Riyadh:リヤド(Saudi Arabiaの首都) 
+Rodin:ロダン(『Auguste』~;1840‐1917;フランスの近代写実派の彫刻家) 
+Roman Empire:ローマ帝国(紀元前27年にAugustusによって建設され,395年に東西に分裂した) 
+roundtable:〈U〉円卓会議の人々 / 《the Round Table》アーサー王の円卓(King Arthurが部下に上下の別をつけないために用いたもの);円卓の騎士たち(アーサー王とその器士たち)
+S.A.:Salvation Army 救世軍 / South America / South Africa 
+S.Am.:South America; South American 
+S.P.C.A.:Society for the Prevention of Cruelty to Animals 動物虐待防止 / 協会
+SALT:Strategic Arms Limitation Talks戦略兵器制限交渉 
+SAT:Scholastic Aptitude Test(大学の入学選考のための)学力適性検査 
+Saxon:〈C〉サクソン人;《the Saxons》サクソン族(アングロ族(the Angles)などと共に5‐6世紀に英国を征服したゲルマン民族) / 〈C〉(現代ドイツの)ザクセン地方(Saxony)の住民 / 〈U〉サクソン語 / サクソン(アングロサクソン)人(語)の / ザクセン地方の 
+SBA:Small Business Administration(米国)中小企業庁 
+scent:〈U〉〈C〉『におい』(smell),かおり,香気 / 〈C〉《単数形で》(動物・人が残す)『臭跡』 / 〈C〉《単数形で》(人・物を見つけ出す)経路,方法,手がかり / 〈U〉《しばしばA~》嗅覚 / 〈U〉《おもに英》香水 / 〈猟犬などが〉…‘を'かぎつける《+『out』+『名,』+『名』+『out』》 / 〈人が〉…‘を'かぎつける,感づく;〈…だ〉‘と'感づく《+『that節』》 / 《通例受動態で》…‘に'香水をつける;(香水などで)…‘を'におわせる,よいかおりにする《+『with』+『名』》
+Schweitzer:シュバイツァー(『Albert』~;1875‐1965;アフリカで医療・伝道に従事した;Nobel平和賞州賞(1952)) 
+scrap:〈C〉『かけら』,小片;少し;《A~》少々(の…)《+『of』+『名』》 / 〈C〉《複数形で》残りもの,食べ残し / 〈U〉(くず鉄など)金属のスクラップ / 〈U〉『くず』,廃物,がらくた / (役に立たないとして)…‘を'捨てる(discard) / …‘を'くず(スクラップ)にする
+Scrooge, scrooge:意地悪なけちん坊[DickensのA Christmas Carolの主人公Ebenezer Scroogeから] 
+scud:すばやく動く(走る) / 〈船が〉追い風に乗って走る / 〈U〉《しばしばA~》すばやく動くこと,疾走 / 〈U〉風に吹かれて飛ぶ雲 / 〈C〉《しばしば複数形で》風まじりの激しい雨 
+second:《通例the~》『第2の』,2番目(2度目)の《略》『2nd,sec.』) / 《A~+名で》『もう一つの』,別の / 一級(最上)のものに次ぐ,二流の / (自動車の変速機の)第2速の / 低音(声)部の,第2の / 〈C〉《the~》『2番目の人』(『物,事』) / 〈U〉《the~》(月の)『第2日』 / 〈C〉(ボクシングの)セコンド;(決闘などの)介添人;(一般に)援助者 / 〈C〉《しばしば複数形で》二流品（ボタンが取れているなど、比較的小さな問題のある格安の服）・〈C〉〈U〉2度音程,第2音(声)部 / 〈U〉(自動車の変速機の)第2速,セカンド[ギア] / 《the~》《最上級の形容詞を伴って》第2に,2番目に / 第2位で,2等で / 〈提案・動議など〉‘に'賛成する,‘を'支持する / …‘を'援助する,後援する,激励する;(ボクシングで)…‘の'セコンドを務める
+selection:〈U〉《時にA~》『選ぶこと』,選抜,選出;(…から)選び出すこと《+『from』(『out of, among』)+『名』》 / 〈C〉(…から)『選び抜かれた人』(『物』);(…の)抜粋,選集《+『from』(『of』)+『名』》 / 〈C〉《単数形で》(商店などの)品揃え / 〈U〉淘汰(とうた):natural selection自然淘汰
+Seneca:(『Lucius Annaeus Seneca』;4BC- 65AD;ローマの哲学者・政治家) 
+Shrove Tuesday:ざんげの火曜日(灰の水曜日(Ash Wednesday)の前日) 
+silver:『銀』(金属元素;化学記号は『Ag』) / (商品・通貨基準としての)銀 / 『銀貨』(一般に銀白色の)硬貨 / 《集合的に》『銀(銀めっき)の食器類』,銀器 / 『銀製の』,銀めっきした / 銀色の,銀白色の / …‘に'銀めっきする / 《文》…‘を'銀色にする / 銀色になる 
+snowman:雪だるま / 《しばしばS-》=Abominable Snowman雪男
+solicitor general:《米》(検事総長のいない州の)首席検事;《S-G-》司法次官(司法長官(Attorney General)の次位) / 《英》法務次官
+South Africa:南アフリカ(アフリカ南部の共和国で,公式名は the Republic of South Africa;首都は,行政府 Pretoria,立法府 Cape Town,司法府 Bloemfontein) 
+Southern Yemen:南イエメン(アジア南西部の共和国;公式名People's Democratic Republic of Yemen(イエメン民主人民共和国);首都Aden) 
+Stone Age:石器時代(道具や武器に石を使った時代;鉄器時代(Iron Age),青銅器時代(Bronze Age)に先行する) 
+subscript:(A2Oの2のような)下つき文字(数字,記号)(inferior) / (文字など)下つきの
+Taj Mahal:タジマハール(インドのAgraにある霊廟) 
+Tennyson:テニスン(Alfred Tennyson;1809‐92;英国の詩人) 
+Texas:テキサス州(米国西南部の州;州都は Austin;{略}Tex.,TX) 
+Thousand and One Nights:《the~》=Arabian Nights' Entertainments 
+thymine:(胸腺のDNAからとる)白色結晶ピリミジン　チミン 
+time:〈U〉《冠詞をつけずに》(空間に対しての)『時間』,時 / 〈U〉(時計で示される)『時刻』 / 〈U〉(ある方式で決められる)『時間』,標準時 / 〈C〉〈U〉(特定の)『時』,おり,ころ / 〈U〉《しばしば A ~》(ある長さの)『時間』,期間 / 〈U〉(要する)『時間』;暇 / 《しばしば複数形で》(歴史上の)『時代』 / 《複数形で》時勢,景気 / 《one's ~》(個人の)一生;若いころ;生涯の特定の時期 / 〈U〉《しばしば A ~》(ある経験をした)『時間』 / 〈C〉『…回』,度 / 〈C〉『…倍』 / …の時間を定める / (…に)…の調子を合わせる《+名+to+名》 / …の時間を計る 
+Toltec:トルテカ族[の人](11‐13世紀にメキシコに住んでいたインディオ;Aztec 文化の基礎を作った) 
+tripos:(英国Cambridge大学の)卒業試験　（Cambridge大学で学位B.A.の）優等試験、優等試験合格者名簿 
+tumble:《状態・方向を表す副詞[句]を伴って》『ころがる』,倒れる / ころげ回る,のたうち回る《+about》 / 《状態・方向を表す副詞[句]を伴って》ころがるようにして行く(来る) / くずれ落ちる,崩壊する《+down》 / (体操)とんぼ返りを打つ,くるくる回転する / 〈価格が〉急落する / 《状態・方向を表す副詞[句]を伴って》…‘を'ほうり投げる / …‘を'めちゃくちゃにする / 〈C〉転倒,転落 / 〈U〉《しばしば A ~》混乱,乱雑ごちゃごちゃ / 〈C〉とんぼ返り 
+Turkey:『トルコ』(小アジアからヨーロッパ南東部にわたる共和国;首都は Ankara) 
+TVA:Tennessee Valley Authority テネシー川流域開売公社 
+twelve:〈C〉(数の)『12』;12の記号(12,XIIなど) / 〈U〉12時,12分,12歳 / 《複数扱い》12人,12個 / 〈C〉12(12人,12個)一組のもの / 《the Twelve》(またTwelve Apostles)キリストの12使徒 / 12の,12人の,12個の / 《補語にのみ用いて》12歳の(で) 
+UAR,U.A.R.:United Arab Republic 
+United Arab Republic:アラブ連合共和国(現在のエジプトアラブ共和国(the Arab Republic of Egypt)の旧名;《略》UAR,U.A.R.) 
+UNRWA:United Nations Relief and Works Agency 国連難民救済事業機関 
+USA,U.S.A.:《通例 the~》United States of America アメリカ合衆国 / United States Army 米国[常備]陸軍
+USAF,U.S.A.F.:United States Air Force 米国空軍 
+USDA:United States Department of Agriculture 米国農務省 
+USIA:United States Information Agency 米国情報局 
+VA:Veterans Administration 在郷軍人局 / Vice Admiral
+VADM:Vice Admiral 
+value-added tax:加価値税(企業の生み出した付加価値に対する課税;《略》VAT)
+Vandyke:(またVan Dyck)バンダイク(Sir Antony Vandyke 1599‐1641;オランダの肖像画家) / (またVandyke beard)〈C〉バンダイクひげ(先の細くとがったあごひげ)[バンダイクの描いた肖像画によくこの形のひげがあることから]
+Venus:ビーナス(ローマ神話の愛と美の女神;ギリシア神話では Aphrodite) / 金星 / 〈C〉(ビーナスのような)絶世の美女 
+Vespucci:ベスプッチ(Amerigo Vespucci;1451‐1512;イタリアの航海家;Americaは彼の名にちなむ) 
+Veterans' Day:《米国で》復員軍人の日(第一次世界大戦の体戦記念日で以前はArmistice Day といった;11月11日;現在《米》では10月の第4月曜日に第二次世界大戦の軍人も含めて記念行事を行っている) 
+Virgil:バージル(70‐19B.C.;Aeneid を書いた古代ローマの詩人) 
+Virginia:バージニア州(米国東部の州;州都はRichmond;《略》『VA,Va.』) 
+vitamin A:ビタミン A 
+VOA:Voice of America 
+volt:ボルト(電圧の単位;{略}V;イタリアの物理学者 Alessandro Volta(1745‐1827)の名にちなんで) 
+Voltaire:ボルテール(Francois Marie Arouet Voltaire;1694‐1778;フランスの思想家・文学者) 
+Vulgate:ラテン語訳聖書(St. Jerome が翻訳し,A.D. 838年ごろに完成したローマカトリック教会公認の聖書) 
+W.A.:Western Australia 
+WAC:Women's Army Corps 陸軍婦人部隊 
+WAF:Women in the Air Force 空軍婦人部隊 
+War of Independence:=American Revolution 
+Washington:『ワシントン市』(米国の首都;Washington州と区別してしばしば Washington, D.C.という) / 米国政府 / 『ワシントン州』(米国北西部の州;州都はOlympia;《略》『WA,Wash.』) / 『ワシントン』(『George~』;1732‐99;米国初代の大統領)
+Water Bearer:=Aquarius 
+WATS:Wide Area Telecommunications Service 広域電話サービス 
+Wessex:ウェセックス(中世に英国南西部にあったAnglo-Saxonの一王国) 
+what:《疑問代名詞》 / 《情報・種別・数量などを求めて》『何』,どんなもの(こと) / 《職業・地位・国籍などを尋ねて》どんな人,何をする人 / 《相手の言葉が聞きとれないときなどにその反復を求めて》 / 《関係代名詞》 / 《名詞節を導いて》『…するもの(こと)』 / 《副詞的に働く挿入節を導いて》『…なことには』 / 《A is to B what C is to Dの形で比例関係を表す》…が…に対するごとく / 《疑問形容詞》『何の』,何という,どの,どんな / 《感嘆文で》『何という』 / 《関係形容詞》…『するものは何でも』;…だけの / いかに,どれほど / 《驚き・怒り・当惑など》『なんだって』,なに,えっ,おや 
+Wichita:ウィチタ(米国Kansas 州南部のArkansas川に臨む都市) 
+Yemen:イエメンアラブ共和国(アラビア半島南西部の共和国;首都 San‘a;正式名 Yemen Arab Republic) / 南イエメン,イエメン民主人民共和国(アラビア半島南部の共和国;首都 Aden;正式名 People's Democratic Republic of Yemen)
+yeomanry:地方の地主,自作農 / 義勇農騎兵(現在では英国民義勇軍(Territorial Army)に編入されている)
+yeti:=Abominable Snowman 
+YMCA,YMCA:Young Men's Christian Association《通例 the YMCA,Y・M・C・A・》キリスト教青年会 
+YMHA:Young Men's Hebrew Association ユダヤ青年団 
+Yukon:ユーコン州(カナダ西北部の州) / 《the~》ユーコン川(カナダ西北部から Alaska を貫流して Bering 海に注ぐ)
+YWCA,Y.W.C.A.:Young Women's Christian Association《通例 the ~》キリスト教女子青年会 
+YWHA:young Women's Hebrew Association ユダヤ女子青年団 
+
+続けますか？No[0],Yes[1]0
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/kadai1$ cd ..
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th$ mak eclean
+コマンド 'mak' は見つかりませんでした。もしかして:
+ コマンド 'mawk' - パッケージ 'mawk' (main)
+ コマンド 'sak' - パッケージ 'seqan-apps' (universe)
+ コマンド 'mag' - パッケージ 'texlive-binaries' (main)
+ コマンド 'mad' - パッケージ 'mmv' (universe)
+ コマンド 'man' - パッケージ 'man-db' (main)
+ コマンド 'mat' - パッケージ 'mat' (universe)
+ コマンド 'maki' - パッケージ 'maki' (universe)
+ コマンド 'make' - パッケージ 'make-guile' (universe)
+ コマンド 'make' - パッケージ 'make' (main)
+ コマンド 'kak' - パッケージ 'kakoune' (universe)
+ コマンド 'maq' - パッケージ 'maq' (universe)
+ コマンド 'gak' - パッケージ 'gui-apt-key' (universe)
+ コマンド 'mark' - パッケージ 'nmh' (universe)
+ コマンド 'mark' - パッケージ 'mailutils-mh' (universe)
+ コマンド 'mark' - パッケージ 'mmh' (universe)
+mak: コマンドが見つかりません
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th$ make clean
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/challenge' に入ります
+\rm -f *.class
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/challenge' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/kadai1' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/kadai1' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-1' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-1' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-2' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-2' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-3' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-3' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-4' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-4' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-5' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-5' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-6' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-6' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-7' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-7' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-8' に入ります
+\rm -f *.class
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-8' から出ます
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th$ cd meikai15-3
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-3$ cat meikai15_3.java
+// 以下に必要な記述を追加せよ
+import java.util.Scanner;
+public class meikai15_3{
+    public static void main(String[] args){
+	Scanner scan = new Scanner(System.in);
+	System.out.print("文字列1:");String s1 = scan.next();
+	System.out.print("文字列2:");String s2 = scan.next();
+	int idx = s1.indexOf(s2);
+	int count = 0;
+	if(idx == -1){
+	    System.out.println("s1中にs2は含まれません");
+	}else{
+	    System.out.print("s1:"+s1+"\ns2:");
+	    while(count < idx){
+		System.out.print(" ");
+		count++;
+	    }
+	    System.out.println(s2);
+	}
+	return;
+    }
+}
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-3$ cd ..
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th$ cd meikai15-2
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-2$ cd ..
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th$ make clean
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/challenge' に入ります
+\rm -f *.class
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/challenge' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/kadai1' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/kadai1' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-1' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-1' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-2' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-2' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-3' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-3' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-4' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-4' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-5' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-5' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-6' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-6' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-7' に入ります
+\rm -f *.class \rm -f *~
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-7' から出ます
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-8' に入ります
+\rm -f *.class
+make[1]: ディレクトリ '/home/clf19020/academic/program2/8th/meikai15-8' から出ます
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th$ ls
+#Explain.txt#  challenge   meikai15-2  meikai15-5  meikai15-8
+Explain.txt    kadai1      meikai15-3  meikai15-6
+Makefile       meikai15-1  meikai15-4  meikai15-7
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th$ cd ..
+clf19020@clf19020-CFSZ6-1L:~/academic/program2$ cd 8th
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th$ cd meikai15-1
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-1$ ls
+Makefile  meikai15_1.java
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-1$ cat meikai15_1.java
+// 以下に必要な記述を追加せよ
+import java.util.Scanner;
+public class meikai15_1{
+    public static void main(String[] args){
+	Scanner scan = new Scanner(System.in);
+	System.out.print("文字列:");String s1 = scan.next();
+	String s2 = "";
+	for(int i = s1.length();i > 0;i--){
+	    s2 += s1.charAt(i-1);
+	}
+	System.out.println("逆文字列:"+s2);
+	return;
+    }
+}
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-1$ cd ..
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th$ cd meiaki15-2
+bash: cd: meiaki15-2: そのようなファイルやディレクトリはありません
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th$ cd meikai15-2
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-2$ cat meikai15_2.java
+// 以下に必要な記述を追加せよ
+import java.util.Scanner;
+public class meikai15_2{
+    public static void main(String[] args){
+	Scanner scan = new Scanner(System.in);
+	System.out.print("文字列:");String s1 = scan.next();
+	String s2 = "";
+	for(int i = 0;i < s1.length();i++){
+	    s2 += String.format("%s:%d ",s1.charAt(i),s1.codePointAt(i));
+	}
+	System.out.println("文字コード\n"+s2);
+	return;
+    }
+}
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-2$ cd ..
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th$ cd meikai15-3
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-3$ ls
+Makefile  meikai15_3.java
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-3$ cat meikai15_3.java
+// 以下に必要な記述を追加せよ
+import java.util.Scanner;
+public class meikai15_3{
+    public static void main(String[] args){
+	Scanner scan = new Scanner(System.in);
+	System.out.print("文字列1:");String s1 = scan.next();
+	System.out.print("文字列2:");String s2 = scan.next();
+	int idx = s1.indexOf(s2);
+	int count = 0;
+	if(idx == -1){
+	    System.out.println("s1中にs2は含まれません");
+	}else{
+	    System.out.print("s1:"+s1+"\ns2:");
+	    while(count < idx){
+		System.out.print(" ");
+		count++;
+	    }
+	    System.out.println(s2);
+	}
+	return;
+    }
+}
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-3$ cd ..
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th$ cd meikai15-4
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-4$ ls
+Makefile  printDoubleTester.java
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-4$ cat printDoubleTester.java
+// 以下に必要な記述を追加せよ
+import java.util.Scanner;
+public class printDoubleTester{
+    public static void printDouble(double x, int p, int w){
+	System.out.printf(String.format("%%%d.%df\n",w+1,p),x);
+    }
+    public static void main(String[] args){
+	Scanner scan = new Scanner(System.in);
+	System.out.print("浮動小数点数値:");double x = scan.nextDouble();
+	System.out.print("小数点以下の桁:");int p = scan.nextInt();
+	System.out.print("全体の少なくとも表示した桁:");int w = scan.nextInt();
+	printDouble(x,p,w);
+	return;
+    }
+}
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-4$ cd ..
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th$ cd meikai15-5
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-5$ ls
+ComputerPlayer.java  HumanPlayer.java   Makefile
+FingerFlashing.java  JankenPlayer.java
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-5$ cat CoumputerPlayer.java
+cat: CoumputerPlayer.java: そのようなファイルやディレクトリはありません
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-5$ cat ComputerPlayer.java
+// コンピュータプレーヤを表すサブクラスComputerPlayerを書く
+import java.util.Random;
+public class ComputerPlayer extends JankenPlayer{
+    Random rand = new Random();
+    private int result;
+
+    public ComputerPlayer(){setResult();}
+
+    public int getResult(){return result;}
+
+    public void setResult(){
+	result = rand.nextInt(3);
+    }
+
+    public String toString(){
+	System.out.println("Computer:");
+	if(getResult() == 0)return "グー";
+	else if(getResult() == 1)return "チョキ";
+	else return "パー";
+    }
+}
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-5$ 
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:597:14: not a number
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:597:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:600:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:784:14: not a number
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:784:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:787:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:1096:14: not a number
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:1096:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:1099:17: Expected a string.
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:2286:8: not a number
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:2286:18: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:2291:8: not a number
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:2291:18: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:4357:14: not a number
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:4357:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:4419:12: not a number
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:4419:12: Expected a string.
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:4428:16: not a number
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:4428:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:4443:22: not a number
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:4443:22: Expected a string.
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:4499:12: Expected a string.
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:4501:16: not a number
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:4501:16: Expected a string.
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:4549:12: not a number
+
+(/usr/lib/firefox/firefox:3122): Gtk-WARNING **: Theme parsing error: gtk.css:4549:12: Expected a string.
+
+clf19020@clf19020-CFSZ6-1L:~/academic/program2/8th/meikai15-5$ cat HumanPlayer 

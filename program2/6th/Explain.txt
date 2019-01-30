@@ -1,0 +1,30 @@
+プログラミング演習2-5　ソースコード説明
+学籍番号:29119020
+氏名:下村理雄
+
+以下説明
+├── Explain.txt（本文）
+├── Makefile
+├── challenge（今回なし）
+│   ├── Makefile
+│   ├── Shiritori.java
+│   └── worddict.txt
+├── kadai-1（課題１のディレクトリ）
+│   ├── FileReaderTester.java（FileReaderTester.javaはmainメソッドを含むクラス）
+│   ├── Makefile
+│   └── aaa.txt（FileReaderTesterクラスで読み込むテキストファイル）
+├── kadai-2（課題２のディレクトリ）
+│   ├── Makefile
+│   └── RangeAddTester.java（RangeAddTester.javaはmainメソッドを含むクラス）
+├── lesson13-2（レッスン第13章問題13-2のディレクトリ）
+│   ├── ExceptionTest3.java（ExceptionTest3.javaはmainメソッドを含むクラス）
+│   └── Makefile
+├── lesson13-3（レッスン第13章問題13-3のディレクトリ）
+│   ├── ExceptionTest5.java（ExceptionTest5.javaはmainメソッドを含むクラス）
+│   └── Makefile
+├── lesson13-4（レッスン第13章問題13-4のディレクトリ）
+│   ├── FactorialTest.java（FactorialTest.javaはmainメソッドを含むクラス）
+│   └── Makefile
+└── lesson13-5（レッスン第13章問題13-5のディレクトリ）
+    ├── ExceptionQuiz.java（ExceptionQuiz.javaはmainメソッドを含むクラス）
+    └── Makefile
